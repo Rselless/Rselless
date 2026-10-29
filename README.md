@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp" height="40" alt="Linguagens" />
 
 **Back-end:** Node.js, NestJS, TypeORM, REST, JWT (Passport), Swagger, Jest e Supertest<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,swagger,jest" height="40" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,jest" height="40" alt="Back-end" />
 
 **Front-end:** React, Vite, React Router, Tailwind CSS, Axios<br>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="40" alt="Front-end" />
